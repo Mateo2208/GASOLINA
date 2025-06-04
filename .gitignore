@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Cachés y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de caché de VSCode
+.vscode/
+
+# Archivos de caché de WhatsApp Web JS
+.wwebjs_cache/
+
+# Otros archivos temporales
+*.tmp
+*.swp
+
+# Salidas de pruebas
+coverage/
+
+# Entornos virtuales
+.env
+.env.*
+
+# Ignora todo excepto archivos funcionales
+!*.js
+!*.json
+!*.md
