@@ -32,3 +32,5 @@ coverage/
 !*.js
 !*.json
 !*.md
+
+.wwebjs_auth/
